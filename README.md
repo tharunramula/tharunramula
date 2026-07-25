@@ -1,84 +1,68 @@
 <div align="center">
 
-# 👋 Hi, I'm Tharun Ramula
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6a3ea1&height=180&section=header&text=Tharun%20Ramula&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%2F%20Automation%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-### AI Engineer • Machine Learning • Enterprise Automation • Python Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=700&lines=Master's+in+Artificial+Intelligence;Building+Production+AI+Applications;Machine+Learning+Engineer;Enterprise+Software+Developer;Always+Learning+Always+Building" />
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](Coming Soon)
+<a href="https://linkedin.com/in/tharunramu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:tharunramula@gmail.com"><img src="https://img.shields.io/badge/Email-6a3ea1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
----
+<br>
 
-# 🚀 About Me
+## About
 
-I'm an AI Engineer with a Master's degree in Artificial Intelligence from the University of North Texas.
+MS in Artificial Intelligence (University of North Texas) with 5+ years in IT —
+database administration, backend development, and automation engineering.
+Currently building practical GenAI tooling: LLM-powered automation, RAG
+pipelines, and semantic search, on top of a data engineering foundation.
 
-I enjoy building intelligent software using Python, Machine Learning, NLP, and enterprise-scale data engineering. My experience includes developing automation solutions, optimizing large-scale SQL systems, and transforming complex data into actionable insights.
+I'm early in the GenAI part of my career and building in public — the projects
+below are genuinely mine, at whatever stage they're actually at.
 
-I'm currently expanding my expertise in Generative AI by building production-ready applications with modern LLM technologies.
+<br>
 
-### 🌱 Currently
+## Tech Stack
 
-- 🤖 Building AI applications
-- 📚 Learning advanced Generative AI
-- ⚙️ Improving backend engineering skills
-- 🚀 Open to AI / ML Engineer opportunities
+<div align="center">
 
-- # 📫 Connect With Me
+<img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,docker,git,fastapi,postgres" />
 
-| Platform | Link |
-|----------|------|
-| LinkedIn | https://linkedin.com/in/tharunramu |
-| Email | tharunramula@gmail.com |
-| Location | Tampa Bay, Florida |
+</div>
 
-# 💻 Tech Stack
+**Languages & Data:** Python · Java · SQL (MS SQL Server)
+**GenAI:** LLM APIs · Prompt Engineering · RAG · LangChain · Vector Databases · Embeddings
+**ML/DL:** PyTorch · TensorFlow · Hugging Face Transformers
+**Tools:** Docker · Git/GitHub · FastAPI · Flask · Grafana · Prometheus
 
-### Programming
+<br>
 
-<p>
+## Projects
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+| Project | Status | What it does |
+|---|---|---|
+| Resume ↔ Job Description Matcher | 🚧 In progress | Semantic similarity scoring between resumes and job postings using sentence embeddings |
+| RAG SQL Docs Assistant | 📋 Planned | Chatbot answering schema questions over a SQL Server sample DB via retrieval-augmented generation |
+| Automation Log Analyzer | 📋 Planned | LLM-summarized anomaly detection over system logs |
+| Fine-Tuned Support Ticket Classifier | 📋 Planned | DistilBERT fine-tuning for ticket routing |
 
-</p>
+*(Updating this table as each one ships — no vaporware, what you see here reflects real repo state.)*
 
-### AI / Machine Learning
+<br>
 
-<p>
+## Background
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+- **MS, Artificial Intelligence** — University of North Texas (GPA 3.27/4.0)
+- **Automation and Data Systems Analyst** — Xclusive Trading Inc *(current)*
+- **Java Developer** — Echelon IT
+- **Database Administrator** — Tata Consultancy Services (client: PepsiCo USA), 5+ years
 
-</p>
+<br>
 
-### Backend
+## GitHub Activity
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tharunramula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunramula&theme=tokyonight&hide_border=true" height="165"/>
 
-</p>
-
-### Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
-
-</p>
+</div>
